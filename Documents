@@ -1,0 +1,12 @@
+Install terraform from terraform.io officail page https://developer.hashicorp.com/terraform/install#windows, Downaload AMD one.
+extarct it
+copy to c drive and add system path , to work from any path
+Open and close cmd and vs code to fetch and show correct terraform
+
+Downlaod vs code
+add hasicrop terraform plugin
+
+Stting of new aws free account
+
+Go to official aws free account and create one
+
