@@ -1,7 +1,7 @@
 Install terraform from terraform.io officail page https://developer.hashicorp.com/terraform/install#windows, Downaload AMD one.
 extarct it
 copy to c drive and add system path , to work from any path
-Open and close cmd and vs code to fetch and show correct terraform
+Open and close cmd and vs code to fetch and show correct terraform version
 
 Downlaod vs code
 add hasicrop terraform plugin
