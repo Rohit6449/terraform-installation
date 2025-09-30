@@ -9,4 +9,5 @@ add hasicrop terraform plugin
 Stting of new aws free account
 
 Go to official aws free account and create one
+Downlaod aws-cli for better managment of secrets
 
